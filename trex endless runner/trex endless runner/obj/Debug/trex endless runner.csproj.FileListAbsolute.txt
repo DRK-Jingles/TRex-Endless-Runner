@@ -1,0 +1,10 @@
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\bin\Debug\trex endless runner.exe.config
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\bin\Debug\trex endless runner.exe
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\bin\Debug\trex endless runner.pdb
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex endless runner.csproj.AssemblyReference.cache
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex_endless_runner.Form1.resources
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex_endless_runner.Properties.Resources.resources
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex endless runner.csproj.GenerateResource.cache
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex endless runner.csproj.CoreCompileInputs.cache
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex endless runner.exe
+C:\Users\Heaada\source\repos\trex endless runner\trex endless runner\obj\Debug\trex endless runner.pdb
